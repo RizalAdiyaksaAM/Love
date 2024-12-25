@@ -147,7 +147,7 @@
 @media (max-width: 600px) {
   .container-hero-1 .bunga-hero{
     position: absolute;
-    top: 240px;
+    top: 300px;
     right: 5px;
     width: 150px;
     
@@ -189,7 +189,6 @@
     margin-top: 200px;
     font-family: "Pacifico", cursive;
     font-size: 70px;
-    width: 400px;
     text-align: center;
     text-shadow: 3px 3px 0 #ffffff, -3px 3px 0 #ffffff, 3px -3px 0 #ffffff,
       -3px -3px 0 #ffffff, 0px 5px 10px #00000054;
@@ -212,7 +211,7 @@
 @media (max-width: 600px) {
   .container-about .about .bio {
     margin-top: -10px;
-    width: 408.45px;
+    width: 388.45px;
     font-family: "Poppins", cursive;
     font-size: 24px;
     font-weight: 500;
@@ -265,9 +264,8 @@
 @media (max-width: 600px) {
   .container-journey .journey .name {
     font-family: "Pacifico", cursive;
-    font-size: 70px;
+    font-size: 60px;
     text-align: center;
-    width: 500px;
     text-shadow: 3px 3px 0 #ffffff, -3px 3px 0 #ffffff, 3px -3px 0 #ffffff,
       -3px -3px 0 #ffffff, 0px 5px 10px #00000054;
     letter-spacing: 0;
@@ -396,8 +394,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 100px;
-    padding-block: 100px;
+    padding-block: 50px;
     padding-bottom: 30px;
   }
 }
@@ -419,7 +416,6 @@
     font-family: "Pacifico", cursive;
     font-size: 70px;
     text-align: center;
-    width: 500px;
     text-shadow: 3px 3px 0 #ffffff, -3px 3px 0 #ffffff, 3px -3px 0 #ffffff,
       -3px -3px 0 #ffffff, 0px 5px 10px #00000054;
     letter-spacing: 0;
@@ -475,9 +471,9 @@
 @media (max-width: 600px) {
   .container-moment .moment .content p {
     font-family: "Pacifico", cursive;
-    font-size: 70px;
+    font-size: 80px;
     text-align: center;
-    width: 500px;
+    line-height: 50px;
     text-shadow: 3px 3px 0 #ffffff, -3px 3px 0 #ffffff, 3px -3px 0 #ffffff,
       -3px -3px 0 #ffffff, 0px 5px 10px #00000054;
     letter-spacing: 0;
