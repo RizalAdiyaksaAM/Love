@@ -291,7 +291,7 @@
   .swiper {
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 370px;
     background-color: #ffffff;
     height: 650px;
     border-radius: 30px;
@@ -450,7 +450,7 @@
     background-color: #ffffff;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
     padding: 50px;
-    width: 300px;
+    width: 270px;
     height: 300px;
     border-radius: 30px;
   }
